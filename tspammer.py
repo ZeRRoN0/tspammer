@@ -27,7 +27,7 @@ def logo():
     print green+"*"+red+"     Twitter Spammer app     "+green+"*"
     print green+"*"+red+"     coding:'ZeRRoN-HACK'    "+green+"*"
     print green+"*"+red+"        ex:spam (user)       "+green+"*"
-    print green+"*"+red+"          help: --help       "+green+"*"
+    print green+"*"+red+"         help: --help        "+green+"*"
     print green+"*******************************"
 def spam(target, first, end):
     global totalSpam
