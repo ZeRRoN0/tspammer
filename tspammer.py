@@ -89,7 +89,7 @@ bu soruyu sorma sebebimiz json datasındaki hesaplardan birinde
 sorun çıkınca o hesabın numarası ile başlatıp devam ettirme
 örnek 100 tane hesap eklediniz sistem 50. hesapta sorun çıkardı
 uygulamayı yeniden başlatıp """+red+"""İlk İd"""+green+"""sorusuna
-51 cevabını vererek program 21. hesaptan başlayıp deneyecektir"""
+51 cevabını vererek program 51. hesaptan başlayıp deneyecektir"""
             elif command.startswith("spam"):
                 target = command[5:]
                 first = int(raw_input(green+"İlk ID: "+red))
